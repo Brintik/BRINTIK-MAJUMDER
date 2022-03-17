@@ -1,3 +1,4 @@
+# This is a programm to help worker who mainly work infront of computer. It reminds the user to take care of thier health and also keep an record of it.
 # Healthy Programmer
 # 9am - 5pm
 # Water - water.mp3 (3.5 litres) - Drank - log
